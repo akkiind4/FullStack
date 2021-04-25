@@ -1,24 +1,3 @@
 /*body{
 /*margin:0;*
 }*/
-.heading{
-  background-color: #e3fdfd;
-  height: 200px;
-  width: 200px;
-}
-h1{
-  padding-left: 10%;
-  padding-right: 10%;
-  /*margin: 0;*/
-}
-.topdiv{
-height: 200px;
-width: 200px;
-}
-.botdiv{
-  height: 200px;
-  width: 200px;
-}
-body{
-  background-size: cover;
-}
