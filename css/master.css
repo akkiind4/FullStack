@@ -5,3 +5,17 @@ body{
   margin: 0;
   text-align: center;
 }
+.bottom-cloud{
+  position: absolute;
+  top: 130px;
+}
+.top-cloud{
+  position: absolute;
+  left: 870px;
+    top: 40px;
+}
+.Write{
+  position: relative;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
