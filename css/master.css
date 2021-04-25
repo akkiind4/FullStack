@@ -4,6 +4,8 @@
 body{
   margin: 0;
   text-align: center;
+  background-color: #e3fdfd;
+  font-family: 'Noto Serif', serif;
 }
 .bottom-cloud{
   position: absolute;
@@ -12,10 +14,18 @@ body{
 .top-cloud{
   position: absolute;
   left: 870px;
-    top: 40px;
+    top: 80px;
 }
 .Write{
   position: relative;
-  margin-top: 100px;
-  margin-bottom: 50px;
+  padding-top: 100px;
+}
+h1{
+  font-family: 'Charmonman', cursive;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
 }
