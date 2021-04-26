@@ -1,31 +1,52 @@
 /*body{
 /*margin:0;*
 }*/
-body{
+body {
   margin: 0;
   text-align: center;
   background-color: #e3fdfd;
   font-family: 'Noto Serif', serif;
 }
-.bottom-cloud{
+
+.bottom-cloud {
   position: absolute;
-  top: 130px;
+  top: 300px;
 }
-.top-cloud{
+
+.top-cloud {
   position: absolute;
   left: 870px;
-    top: 80px;
+  top: 130px;
 }
-.introduction{
+
+.introduction {
   position: relative;
   padding-top: 100px;
 }
-h1{
+
+.SDE {
+  margin-top: 0;
+  color: #66BFBF;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-top: 50px;
+  margin-bottom: 0;
   font-family: 'Charmonman', cursive;
+  color: #66BFBF;
 }
-h2{
+
+h2 {
+    color: #66BFBF;
+  font-size: 2rem;
   font-family: 'Montserrat', sans-serif;
 }
-h3{
+
+h3 {
+  color: #11999E;
   font-family: 'Montserrat', sans-serif;
+}
+.footer-link{
+  color: #11999E;
 }
